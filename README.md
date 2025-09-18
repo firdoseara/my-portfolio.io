@@ -1,6 +1,6 @@
 # 🚀 My Portfolio Website
 
-![image](https://drive.google.com/file/d/1ASykuioAJNd-g2ck2jwKvFV5C837DYqy/view?usp=sharing)
+![image](https://github.com/zeeshanaf02/fii-portfolio.io/blob/main/public/Screenshot%202025-09-18%20145155.png)
 
 [Checkout the initial design here](https://www.figma.com/design/56hODoGFDzZfZduBPfQeBg/New-Portfolio?node-id=18-1550&t=73vRMGTW0gspTSND-1)
 
